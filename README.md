@@ -6,3 +6,4 @@
 💁🏻‍♀️ Women in tech advocate & CFG ambassador, interview & technical coach. <br/>
 🏢 Current company [Intellectual Property Office](https://codefirstgirls.com/blog/building-local-tech-talent-pipelines-how-ipo-upskilled-women-in-wales/).<br/>
 
+![Heather's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heather-ogrady&show_icons=true&theme=cobalt)
